@@ -1,0 +1,22 @@
+state={
+	id=763
+	name="STATE_763"
+	
+	history={
+		owner = MEX
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = MEX
+
+	}
+	
+	provinces={
+		850 1740 4742 10662 12573 12699 
+	}
+	manpower=312345
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

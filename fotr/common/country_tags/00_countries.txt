@@ -1,0 +1,3 @@
+LOU = "countries/Louisiana.txt"
+COL = "countries/Columbia.txt"
+MEX = "countries/Mexico.txt"

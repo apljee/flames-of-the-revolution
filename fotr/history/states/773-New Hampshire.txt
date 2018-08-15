@@ -1,0 +1,21 @@
+state={
+	id=773
+	name="STATE_773"
+	
+	history={
+		owner = COL
+		buildings = {
+			infrastructure = 2
+			arms_factory = 3
+			industrial_complex = 3
+		}
+	
+	}
+		
+	provinces={
+		733 3712 3715 10481 
+	}
+	manpower=465293
+	buildings_max_level_factor=1.000
+	state_category=town
+}

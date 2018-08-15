@@ -1,0 +1,29 @@
+state={
+	id=772
+	name="STATE_772"
+	
+	history={
+		owner = COL
+		buildings = {
+			infrastructure = 2
+			arms_factory = 3
+			industrial_complex = 3
+			dockyard = 2
+			9832 = {
+				naval_base = 3
+
+			}
+			add_core_of = COL
+			victory_points = {
+				9832 1 
+			}
+
+		}
+	}	
+	provinces={
+		9832 11830 
+	}
+	manpower=687497
+	buildings_max_level_factor=1.000
+	state_category=large_town	
+}

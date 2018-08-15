@@ -1,0 +1,21 @@
+state={
+	id=774
+	name="STATE_774"
+	
+	history={
+		owner = COL
+		buildings = {
+			infrastructure = 2
+			arms_factory = 3
+			industrial_complex = 3
+		}
+	
+	}
+	
+	provinces={
+		4445 7629 9675 
+	}
+	manpower=352428
+	buildings_max_level_factor=1.000
+	state_category=town
+}
