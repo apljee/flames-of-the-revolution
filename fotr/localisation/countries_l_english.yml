@@ -7,5 +7,12 @@
  MEX_neutrality_DEF:0 "the Mexican Empire"
  GER_fascism:0 "German Reich"
  GER_fascism_DEF:0 "the German Reich"
-
+ QBC_neutrality:0 "Quebec"
+ QBC_neutrality_DEF:0 "Quebec"
+ CUB_neutrality:0 "Cuba"
+ CUB_neutrality_DEF:0 "Cuba"
+ HAI_neutrality:0 "Haiti"
+ HAI_neutrality_DEF:0 "Haiti"
+ DOM_neutrality:0 "Dominica"
+ DOM_neutrality_DEF:0 "Dominica"
  

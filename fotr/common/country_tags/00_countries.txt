@@ -1,3 +1,7 @@
 LOU = "countries/Louisiana.txt"
 COL = "countries/Columbia.txt"
 MEX = "countries/Mexico.txt"
+QBC = "countries/Quebec.txt"
+DOM = "countries/DominicanRepublic.txt"
+CUB = "countries/Cuba.txt"
+HAI = "countries/Haiti.txt"

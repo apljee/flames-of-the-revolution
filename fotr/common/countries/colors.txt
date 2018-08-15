@@ -13,4 +13,19 @@ MEX = {
 	color = rgb { 80 156 85 }
 	color_ui = rgb { 60 135 65 }
 }
-
+QBC = {
+	color = rgb { 56 63 131 }
+	color_ui = rgb { 58 69 168 }
+}
+CUB = {
+	color = rgb { 178 78 145 }
+	color_ui = rgb { 193 73 154 }
+}
+HAI = {
+	color = rgb { 77 109 243 }
+	color_ui = rgb { 64 100 249 }
+}
+DOM = {
+	color = rgb { 178 145 45 }
+	color_ui = rgb { 209 167 39 }
+}
