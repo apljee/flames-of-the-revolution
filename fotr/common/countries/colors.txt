@@ -29,3 +29,27 @@ DOM = {
 	color = rgb { 178 145 45 }
 	color_ui = rgb { 209 167 39 }
 }
+ENG = {
+	color = rgb { 145 55 55 }
+	color_ui = rgb { 186 61 61 }
+}
+IRE = {
+	color = rgb { 78 150 78 }
+	color_ui = rgb { 42 102 42 }
+}
+POR = {
+	color = rgb { 121 206 174 }
+	color_ui = rgb { 91 175 144 }
+}
+SPA = {
+	color = rgb { 239 223 103 }
+	color_ui = rgb { 191 177 76 }
+}
+ARA = {
+	color = rgb { 239 102 102 }
+	color_ui = rgb { 201, 66, 66 }
+}
+FRA = {
+	color = rgb { 78 119 183 }
+	color_ui = rgb { 51 87 142 }
+}
