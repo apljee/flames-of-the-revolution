@@ -1,9 +1,23 @@
 state={
 	id=766
 	name="STATE_766"
+	
+	history={
+		owner = QBC
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		
+		add_core_of = QBC
+
+	}
+		
 	provinces={
 		736 1763 1804 3498 7766 12166 
 	}
-	manpower=0
+	manpower=354124
 	buildings_max_level_factor=1.000
+	state_category=rural
 }
