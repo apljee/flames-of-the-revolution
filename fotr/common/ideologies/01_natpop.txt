@@ -1,0 +1,47 @@
+ideologies = {
+
+	natpop = {
+
+		types = {
+			national_populist = { #the only one lol
+			}
+		}
+
+	dynamic_faction_names = {
+		"FACTION_NAME_NATPOP_1"
+	}
+
+	color = { 76 9 9 }
+
+		rules = {
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_volunteers = yes
+			can_puppet = yes
+		}
+
+		war_impact_on_world_tension = 0
+		faction_impact_on_world_tension = 0
+
+		modifiers = {
+			generate_wargoal_tension = 0.2
+			join_faction_tension = 0.2
+			lend_lease_tension = 0.4
+			send_volunteers_tension = 0.1
+			guarantee_tension = 0.25
+			take_states_cost_factor = 0
+			annex_cost_factor = 0
+			justify_war_goal_when_in_major_war_time = 0.1
+			drift_defence_factor = 0.15
+			puppet_cost_factor = -0.25
+		}
+	
+		can_be_boosted = yes
+		can_collaborate = yes
+	
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0
+		}
+		ai_communism = yes
+	}
+}		
