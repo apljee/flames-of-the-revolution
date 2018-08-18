@@ -1,6 +1,9 @@
 state={
 	id=781
 	name="STATE_781"
+	history={
+		owner = ITA
+	}
 	provinces={
 		6862 11751 
 	}

@@ -47,7 +47,7 @@ SPA = {
 }
 ARA = {
 	color = rgb { 239 102 102 }
-	color_ui = rgb { 201, 66, 66 }
+	color_ui = rgb { 201 66 66 }
 }
 FRA = {
 	color = rgb { 78 119 183 }
@@ -55,5 +55,33 @@ FRA = {
 }
 RUS = {
 	color = rgb { 0 127 14 }
-	color_ui = rgb { 0, 102, 11 }
+	color_ui = rgb { 0 102 11 }
+}
+ITA = {
+	color = rgb { 132 204 108 }
+	color_ui = rgb { 113 183 89 }
+}
+PAP = { 
+	color = rgb { 244 244 200 }
+	color_ui = rgb { 216 216 160 }
+}
+SIC = {
+	color = rgb { 124 14 14 }
+	color_ui = rgb { 86 10 10 }
+}
+GER = {
+	color = rgb { 196 196 196 }
+	color_ui = rgb { 163 163 163 }
+}
+PRU = {
+	color = rgb { 40 48 61 }
+	color_ui = rgb { 29 36 48 }
+}
+NET = {
+	color = rgb { 239 166 64 }
+	color_ui = rgb { 178 116 30 }
+}
+SWI = {
+	color = rgb { 216 56 56 }
+	color_ui = rgb { 173 38 38 }
 }

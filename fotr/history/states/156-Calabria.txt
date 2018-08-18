@@ -4,7 +4,7 @@ state={
 	name="STATE_156"
 
 	history={
-		owner = ITA
+		owner = SIC
 		victory_points = {
 			11837 15 
 		}
@@ -22,6 +22,7 @@ state={
 			}
 
 		}
+		add_core_of = SIC
 		add_core_of = ITA
 		1939.1.1 = {
 			buildings = {

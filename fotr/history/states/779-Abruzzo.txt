@@ -1,6 +1,9 @@
 state={
 	id=779
 	name="STATE_779"
+	history={
+		owner = SIC
+	}
 	provinces={
 		963 3923 3966 6831 
 	}
