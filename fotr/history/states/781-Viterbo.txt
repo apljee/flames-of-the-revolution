@@ -3,10 +3,23 @@ state={
 	name="STATE_781"
 	history={
 		owner = ITA
-	}
+		buildings = {
+			infrastructure = 4
+			air_base = 2
+			arms_factory = 2
+			industrial_complex = 4
+			11751 = {
+				naval_base = 5
+
+			}
+		
+		}
+		
+	}	
 	provinces={
 		6862 11751 
 	}
-	manpower=0
+	manpower=398345
 	buildings_max_level_factor=1.000
+	state_category=city
 }

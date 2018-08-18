@@ -85,19 +85,3 @@ SWI = {
 	color = rgb { 216 56 56 }
 	color_ui = rgb { 173 38 38 }
 }
-SWE = {
-	color = rgb { 62 37 130 }
-	color_ui = rgb { 34 19 76 }
-}
-DEN = {
-	color = rgb { 147 112 112 }
-	color_ui = rgb { 119 86 86 }
-}
-NOR = {
-    color = rgb { 153 91 128 }
-    color_ui = rgb { 119 65 98 }
-}
-FIN = { 
-    color = rgb { 216 216 216 }
-    color_ui = rgb { 178 178 178 }
-}

@@ -3,10 +3,21 @@ state={
 	name="STATE_779"
 	history={
 		owner = SIC
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 2
+			6831 = {
+				naval_base = 1
+
+			}
+
+		}
 	}
 	provinces={
 		963 3923 3966 6831 
 	}
-	manpower=0
+	manpower=1723452
 	buildings_max_level_factor=1.000
+	state_category=city
 }
