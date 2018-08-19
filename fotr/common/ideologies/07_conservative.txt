@@ -5,16 +5,13 @@ ideologies = {
 		types = {
 			conservative = {
 			}
-
-			religious conservative = {
-			}
 		}
 
 	dynamic_faction_names = {
 		"FACTION_NAME_CONSERVATIVE_1"
 	}
 
-	color = { 150 185 209 }
+	color = { 54 100 193 }
 
 		rules = {
 			can_force_government = no

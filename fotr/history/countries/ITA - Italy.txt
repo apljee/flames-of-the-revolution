@@ -9,26 +9,54 @@ set_technology = {
 }
 
 set_politics = {
-A
-	parties = {
-		democratic = { 
-			popularity = 0
-		}
 
-		fascism = {
+	parties = {
+		natpop = { 
 			popularity = 0
 		}
 		
-		communism = {
+		jacobin = {
 			popularity = 0
 		}
 		
-		neutrality = { 
-			popularity = 100
+		revrep = {
+			popularity = 0
+		}
+		
+		demrep = { 
+			popularity = 0
+		}
+		
+		liberal = { 
+			popularity = 15
+		}
+		
+		syncretic = {
+			popularity = 15
+		}
+		
+		conservative = {
+			popularity = 24
+		}
+		
+		autdem = { 
+			popularity = 10
+		}
+		
+		absaut = {
+			popularity = 12
+		}
+		
+		totalitarianism = { 
+			popularity = 19
+		}
+		
+		vanguardism = { 
+			popularity = 5
 		}
 	}
 	
-	ruling_party = neutrality
+	ruling_party = conservative
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no

@@ -3,13 +3,7 @@ ideologies = {
 	syncretic = {
 
 		types = {
-			centrist = {
-			}
-
-			center_right = {
-			}
-
-			center_left = {
+			syncretic = {
 			}
 		}
 
@@ -17,7 +11,7 @@ ideologies = {
 		"FACTION_NAME_SYNCRETIC_1"
 	}
 
-	color = { 181 150 209 }
+	color = { 104 140 196 }
 
 		rules = {
 			can_force_government = no

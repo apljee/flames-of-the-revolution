@@ -1,39 +1,40 @@
 ideologies = {
 
-	liberal = {
+	jacobin = {
 
 		types = {
-			liberal = {
+			jacobin = {
 			}
 		}
 
 	dynamic_faction_names = {
-		"FACTION_NAME_LIBERAL_1"
+		"FACTION_NAME_SOCIALISM_1"
 	}
 
-	color = { 129 169 219 }
+	color = { 112 12 12 }
 
 		rules = {
-			can_force_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
 			can_volunteers = yes
-			can_puppet = no
-			can_lower_tension = yes
+			can_puppet = yes
+			can_guarantee_other_ideologies = yes
 		}
 
 		war_impact_on_world_tension = 0
 		faction_impact_on_world_tension = 0
 
 		modifiers = {
-			generate_wargoal_tension = 0.6
-			join_faction_tension = 0.6
+			generate_wargoal_tension = 0.3
+			join_faction_tension = 0.3
 			lend_lease_tension = 0.5
-			send_volunteers_tension = 0.4
-			guarantee_tension = 0.2
+			send_volunteers_tension = 0.15
+			guarantee_tension = 0.3
 			take_states_cost_factor = 0
 			annex_cost_factor = 0
 			justify_war_goal_when_in_major_war_time = 0
 			drift_defence_factor = 0
-			puppet_cost_factor = 0.2
+			puppet_cost_factor = -0.35
 		}
 	
 		can_be_boosted = yes
@@ -42,6 +43,6 @@ ideologies = {
 		faction_modifiers = {
 			faction_trade_opinion_factor = 0
 		}
-		ai_democratic = yes
+		ai_communism = yes
 	}
-}
+}		

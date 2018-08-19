@@ -9,22 +9,50 @@ set_technology = {
 }
 
 set_politics = {
-A
-	parties = {
-		democratic = { 
-			popularity = 0
-		}
 
-		fascism = {
+	parties = {
+		natpop = { 
 			popularity = 0
 		}
 		
-		communism = {
+		jacobin = {
 			popularity = 0
 		}
 		
-		neutrality = { 
-			popularity = 100
+		revrep = {
+			popularity = 0
+		}
+		
+		demrep = { 
+			popularity = 20
+		}
+		
+		liberal = { 
+			popularity = 20
+		}
+		
+		syncretic = {
+			popularity = 0
+		}
+		
+		conservative = {
+			popularity = 20
+		}
+		
+		autdem = { 
+			popularity = 0
+		}
+		
+		absaut = {
+			popularity = 60
+		}
+		
+		totalitarianism = { 
+			popularity = 0
+		}
+		
+		vanguardism = { 
+			popularity = 0
 		}
 	}
 	
