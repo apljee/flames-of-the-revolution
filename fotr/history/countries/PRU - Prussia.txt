@@ -43,7 +43,7 @@ set_politics = {
 			popularity = 30
 		}
 		
-		absaut = {
+		absolute = {
 			popularity = 0
 		}
 		
@@ -51,7 +51,7 @@ set_politics = {
 			popularity = 13
 		}
 		
-		vanguardism = { 
+		agrarianism = { 
 			popularity = 7
 		}
 	}

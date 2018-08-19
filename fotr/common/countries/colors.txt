@@ -101,3 +101,19 @@ FIN = {
     color = rgb { 216 216 216 }
     color_ui = rgb { 178 178 178 }
 }
+HUN = {
+	color = rgb { 249 126 98 }
+	color_ui = rgb { 255 164 127 }
+}
+SER = {
+	color = rgb { 106 80 155 }
+	color_ui = rgb { 80 56 127 }
+}
+CRO = {
+	color = rgb { 32 62 120 }
+	color_ui = rgb { 18 41 86 }
+}
+OTT = {
+	color = rgb { 131 148 113 }
+	color_ui = rgb { 104 122 85 }
+}

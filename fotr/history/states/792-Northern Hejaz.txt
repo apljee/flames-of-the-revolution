@@ -1,0 +1,13 @@
+state={
+	id=792
+	name="STATE_792"
+	
+	history={
+		owner = OTT
+	}	
+	provinces={
+		1033 2027 2095 8092 10835 12101 12758 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

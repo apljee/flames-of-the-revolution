@@ -43,7 +43,7 @@ set_politics = {
 			popularity = 0
 		}
 		
-		absaut = {
+		absolute = {
 			popularity = 60
 		}
 		
@@ -51,12 +51,12 @@ set_politics = {
 			popularity = 0
 		}
 		
-		vanguardism = { 
+		agrarianism = { 
 			popularity = 0
 		}
 	}
 	
-	ruling_party = neutrality
+	ruling_party = absolute
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no

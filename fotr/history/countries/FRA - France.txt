@@ -20,7 +20,7 @@ set_politics = {
 		}
 		
 		revrep = {
-			popularity = 7
+			popularity = 0
 		}
 		
 		demrep = { 
@@ -36,14 +36,14 @@ set_politics = {
 		}
 		
 		conservative = {
-			popularity = 0
+			popularity = 7
 		}
 		
 		autdem = { 
 			popularity = 15
 		}
 		
-		absaut = {
+		absolute = {
 			popularity = 51
 		}
 		
@@ -51,12 +51,12 @@ set_politics = {
 			popularity = 0
 		}
 		
-		vanguardism = { 
+		agrarianism = { 
 			popularity = 0
 		}
 	}
 	
-	ruling_party = absaut
+	ruling_party = absolute
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no

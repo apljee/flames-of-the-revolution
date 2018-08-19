@@ -39,7 +39,7 @@ set_politics = {
 			popularity = 18
 		}
 		
-		autdem = { 
+		absolute = { 
 			popularity = 23
 		}
 		
@@ -51,12 +51,12 @@ set_politics = {
 			popularity = 11
 		}
 		
-		vanguardism = { 
+		agrarianism = { 
 			popularity = 3
 		}
 	}
 	
-	ruling_party = autdem
+	ruling_party = absolute
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no

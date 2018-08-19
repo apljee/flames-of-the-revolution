@@ -1,6 +1,10 @@
 state={
 	id=783
 	name="STATE_783"
+	
+	history={
+		owner = OTT
+	}
 	provinces={
 		833 867 6913 9849 
 	}
