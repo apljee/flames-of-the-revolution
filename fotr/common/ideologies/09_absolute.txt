@@ -11,7 +11,7 @@ ideologies = {
 		"FACTION_NAME_ABSAUT_1"
 	}
 
-	color = { 94 94 94 }
+	color = { 81 81 81 }
 
 		rules = {
 			can_force_government = yes

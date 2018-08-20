@@ -1,6 +1,12 @@
 state={
 	id=776
 	name="STATE_776"
+	
+	history={
+		owner = UCA
+		add_core_of = UCA
+	}
+	
 	provinces={
 		1633 4611 4624 
 	}

@@ -11,7 +11,7 @@ ideologies = {
 		"FACTION_NAME_SYNCRETIC_1"
 	}
 
-	color = { 104 140 196 }
+	color = { 80 115 170 }
 
 		rules = {
 			can_force_government = no

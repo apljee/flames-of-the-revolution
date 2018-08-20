@@ -11,7 +11,7 @@ ideologies = {
 		"FACTION_NAME_TOTDEM_1"
 	}
 
-	color = { 181 181 181 }
+	color = { 119 119 119 }
 
 		rules = {
 			can_declare_war_on_same_ideology = yes
