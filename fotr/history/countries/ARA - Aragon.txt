@@ -43,7 +43,7 @@ set_politics = {
 			popularity = 0
 		}
 		
-		absaut = {
+		absolute = {
 			popularity = 0
 		}
 		
