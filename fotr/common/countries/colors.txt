@@ -117,43 +117,35 @@ OTT = {
 	color = rgb { 131 148 113 }
 	color_ui = rgb { 104 122 85 }
 }
-QIN = {
-	color = rgb { 215 226 95 }
-	color_ui = rgb { 173 13 58 }
-}
-CHI = {
-	color = rgb { 95 144 175 }
-	color_ui = rgb { 61 108 137 }
-}
-GRA = {
-	color = rgb { 253 254 161 }
-	color_ui = rgb { 208 209 119 }
-}
-BOL = {
-	color = rgb { 0 90 136 }
-	color_ui = rgb { 0 74 112 }
+UCA = {
+	color = rgb { 141 202 214 }
+	color_ui = rgb { 94 166 181 }
 }
 BRA = {
-	color = rgb { 72 143 11 }
-	color_ui = rgb { 47 96 4 }
+	color = rgb { 47 135 53 }
+	color_ui = rgb { 35 104 40 }
 }
-ARG = {
-	color = rgb { 155 205 228 }
-	color_ui = rgb { 99 155 181 }
-}
-CHL = {
-	color = rgb { 132 71 99 }
-	color_ui = rgb { 104 47 73 }
+GRA = {
+	color = rgb { 232 223 160 }
+	color_ui = rgb { 201 192 128 }
 }
 PER = {
-	color = rgb { 231 64 56 }
-	color_ui = rgb { 158 37 31 }
+	color = rgb { 204 69 69 }
+	color_ui = rgb { 165 48 48 }
+}
+BOL = {
+	color = rgb { 86 107 188 }
+	color_ui = rgb { 65 81 147 }
 }
 PAR = {
-	color = rgb { 50 61 186 }
-	color_ui = rgb { 29 38 145 }
+	color = rgb { 75 147 143 }
+	color_ui = rgb { 41 99 96 }
 }
-UCA = {
-	color = rgb { 109 153 169 }
-	color_ui = rgb { 61 106 122 }
+ARG = {
+	color = rgb { 192 228 232 }
+	color_ui = rgb { 163 199 204 }
+}
+CHI = {
+	color = rgb { 117 76 99 }
+	color_ui = rgb { 89 53 73 }
 }
