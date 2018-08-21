@@ -1,0 +1,14 @@
+state={
+	id=799
+	name="STATE_799"
+	
+	history = {
+		owner = IND
+		}
+		
+	provinces={
+		1147 4003 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

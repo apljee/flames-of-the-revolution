@@ -1,0 +1,14 @@
+state={
+	id=796
+	name="STATE_796"
+	
+	history={
+		owner = IND
+		}
+		
+	provinces={
+		1359 5019 5063 10311 10324 10511 11950 12226 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,14 @@
+state={
+	id=798
+	name="STATE_798"
+	
+	history={
+		owner = MUG
+		}
+		
+	provinces={
+		1541 1569 4459 7334 10751 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

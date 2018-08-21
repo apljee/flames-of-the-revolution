@@ -50,8 +50,8 @@ ARA = {
 	color_ui = rgb { 201 66 66 }
 }
 FRA = {
-	color = rgb { 78 119 183 }
-	color_ui = rgb { 51 87 142 }
+	color = rgb { 13 46 146 }
+	color_ui = rgb { 4 26 94 }
 }
 RUS = {
 	color = rgb { 0 127 14 }
@@ -70,8 +70,8 @@ SIC = {
 	color_ui = rgb { 86 10 10 }
 }
 GER = {
-	color = rgb { 196 196 196 }
-	color_ui = rgb { 163 163 163 }
+	color = rgb { 155 155 155 }
+	color_ui = rgb { 112 112 112 }
 }
 PRU = {
 	color = rgb { 40 48 61 }
@@ -114,8 +114,8 @@ CRO = {
 	color_ui = rgb { 18 41 86 }
 }
 OTT = {
-	color = rgb { 131 148 113 }
-	color_ui = rgb { 104 122 85 }
+	color = rgb { 169 183 154 }
+	color_ui = rgb { 145 160 128 }
 }
 UCA = {
 	color = rgb { 141 202 214 }
@@ -168,4 +168,24 @@ TRK = {
 PER = {
 	color = rgb { 60 102 80 }
 	color_ui = rgb { 39 68 53 }
+}
+AFG = {
+	color = rgb { 64 160 167 }
+	color_ui = rgb { 46 133 140 }
+}
+MUG = {
+        color = rgb { 49 97 74 }
+        color_ui = rgb { 35 79 58 }
+}
+IND = {
+	color = rgb { 225 134 76 }
+	color_ui = rgb { 175 98 49 }
+}
+FRI = {
+	color = rgb { 13 46 146 }
+	color_ui = rgb { 4 26 94 }
+}
+EIC = {
+	color = rgb { 150 23 26 }
+	color_ui = rgb { 109 10 13 }
 }
