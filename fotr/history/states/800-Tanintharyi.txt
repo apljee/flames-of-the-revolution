@@ -1,9 +1,14 @@
 state={
 	id=800
 	name="STATE_800"
+	history={
+		owner = SIA
+		add_core_of = SIA
+	}
 	provinces={
 		1296 1315 1385 1403 4275 4408 7295 10217 12125 12238 12292 
 	}
-	manpower=0
+	manpower=200000
+	state_category = rural
 	buildings_max_level_factor=1.000
 }

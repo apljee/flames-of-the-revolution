@@ -20,7 +20,7 @@ state={
 			}
 		}
 		add_core_of = PRU
-		is_demilitarized_zone = yes
+		demilitarized = yes
 		1938.3.12 = {
 			add_claim_by = GER
 		}

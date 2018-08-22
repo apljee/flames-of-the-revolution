@@ -193,3 +193,39 @@ MOS = {
 	color = rgb { 125 13 24 }
 	color_ui = rgb { 102 6 15 }
 }
+AUS = {
+	color = rgb { 50 155 57 }
+	color_ui = rgb { 35 107 40 }
+}
+NSL = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 22 22 22 }
+}
+JAP = {
+	color = rgb { 213 177 162 }
+	color_ui = rgb { 175 146 135 }
+}
+PHI = {
+	color = rgb { 112 94 144 }
+	color_ui = rgb { 96 82 122 }
+}
+DEI = {
+	color = rgb { 223 137 52 }
+	color_ui = rgb { 193 117 46 }
+}
+SIA = {
+	color = rgb { 31 82 118 }
+	color_ui = rgb { 24 64 91 }
+}
+GAF = {
+	color = rgb { 86 86 86 }
+	color_ui = rgb { 63 63 63 }
+}
+ETH = {
+	color = rgb { 152 130 191 }
+	color_ui = rgb { 109 965 137 }
+}
+EGY = {
+	color = rgb { 250 205 138 }
+	color_ui = rgb { 204 166 114 }
+}
