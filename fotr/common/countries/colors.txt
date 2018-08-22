@@ -189,3 +189,7 @@ EIC = {
 	color = rgb { 150 23 26 }
 	color_ui = rgb { 109 10 13 }
 }
+MOS = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 102 6 15 }
+}
