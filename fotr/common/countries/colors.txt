@@ -229,3 +229,19 @@ EGY = {
 	color = rgb { 250 205 138 }
 	color_ui = rgb { 204 166 114 }
 }
+FWA = {
+	color = rgb { 13 46 146 }
+	color_ui = rgb { 4 26 94 }
+}
+FCA = {
+	color = rgb { 13 46 146 }
+	color_ui = rgb { 4 26 94 }
+}
+FNA = {
+	color = rgb { 13 46 146 }
+	color_ui = rgb { 4 26 94 }
+}
+MOR = {
+	color = rgb { 82 42 29 }
+	color_ui = rgb { 51 25 18 }
+}
