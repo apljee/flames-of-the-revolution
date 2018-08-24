@@ -1,6 +1,10 @@
 state={
 	id=804
 	name="STATE_804"
+	
+	history={
+		owner = BEL
+		}
 	provinces={
 		277 358 406 9341 
 	}

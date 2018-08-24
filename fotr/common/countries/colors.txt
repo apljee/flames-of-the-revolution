@@ -245,3 +245,19 @@ MOR = {
 	color = rgb { 82 42 29 }
 	color_ui = rgb { 51 25 18 }
 }
+BAL = {
+	color = rgb { 142 0 28 }
+	color_ui = rgb { 91 0 18 }
+}
+BEL = {
+	color = rgb { 142 0 28 }
+	color_ui = rgb { 91 0 18 }
+}
+KUB = {
+	color = rgb { 142 0 28 }
+	color_ui = rgb { 91 0 18 }
+}
+UKR = {
+	color = rgb { 142 0 28 }
+	color_ui = rgb { 91 0 18 }
+}
