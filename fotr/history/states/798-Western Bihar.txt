@@ -1,14 +1,15 @@
 state={
 	id=798
 	name="STATE_798"
-	
+	state_category = rural
 	history={
 		owner = MUG
+		add_core_of = MUG
 		}
 		
 	provinces={
 		1541 1569 4459 7334 10751 
 	}
-	manpower=0
+	manpower=2302500
 	buildings_max_level_factor=1.000
 }

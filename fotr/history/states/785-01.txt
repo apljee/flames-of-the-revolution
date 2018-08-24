@@ -1,13 +1,15 @@
 state={
 	id=785
 	name="STATE_785"
-	
+	state_category = town
 	history={
 		owner = OTT
+		add_core_of = GRE
+		add_core_of = OTT
 	}
 	provinces={
 		878 893 6923 9862 11813 
 	}
-	manpower=0
+	manpower=724361
 	buildings_max_level_factor=1.000
 }

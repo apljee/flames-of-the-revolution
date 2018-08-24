@@ -1,0 +1,89 @@
+capital = 84
+
+#OOB = "ALB_1936"
+
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	tech_recon = 1
+}
+
+set_politics = {
+
+	parties = {
+		natpop = { 
+			popularity = 0
+		}
+		
+		jacobin = {
+			popularity = 5
+		}
+		
+		revrep = {
+			popularity = 5
+		}
+		
+		demrep = { 
+			popularity = 10
+		}
+		
+		liberal = { 
+			popularity = 10
+		}
+		
+		syncretic = {
+			popularity = 8
+		}
+		
+		conservative = {
+			popularity = 12
+		}
+		
+		autdem = { 
+			popularity = 30
+		}
+		
+		absolute = {
+			popularity = 0
+		}
+		
+		totalitarianism = { 
+			popularity = 13
+		}
+		
+		agrarianism = { 
+			popularity = 7
+		}
+	}
+	
+	ruling_party = autdem
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_convoys = 5
+
+#Victor Emmanuel III of Italy after 39
+create_country_leader = {
+	name = "King Zog"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "Portrait_Albania_King_Zog.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		#
+	}
+}
+
+create_field_marshal = {
+	name = "Xhemal Aranitasi"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+	traits = { }
+	skill = 2
+	attack_skill = 1
+    defense_skill = 3
+    planning_skill = 2
+    logistics_skill = 1
+}
+

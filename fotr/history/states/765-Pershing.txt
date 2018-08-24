@@ -1,7 +1,7 @@
 state={
 	id=765
 	name="STATE_765"
-	
+	state_category = town
 	history={
 		owner = COL
 		buildings = {
@@ -15,6 +15,6 @@ state={
 	provinces={
 		1719 1734 6767 6827 7896 12550 12588 
 	}
-	manpower=0
+	manpower=348821
 	buildings_max_level_factor=1.000
 }

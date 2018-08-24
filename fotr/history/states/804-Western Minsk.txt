@@ -1,13 +1,14 @@
 state={
 	id=804
 	name="STATE_804"
-	
+	state_category = town
 	history={
 		owner = BEL
+		add_core_of = BEL
 		}
 	provinces={
 		277 358 406 9341 
 	}
-	manpower=0
+	manpower=537372
 	buildings_max_level_factor=1.000
 }

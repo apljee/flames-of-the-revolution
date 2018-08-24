@@ -1,13 +1,14 @@
 state={
 	id=802
 	name="STATE_802"
-	
+	state_category = rural
 	history={
-		owner = COR
+		owner = LAT
+		add_core_of = LAT
 		}
 	provinces={
 		3255 11358 
 	}
-	manpower=0
+	manpower=88726
 	buildings_max_level_factor=1.000
 }

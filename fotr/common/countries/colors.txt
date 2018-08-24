@@ -114,8 +114,8 @@ CRO = {
 	color_ui = rgb { 18 41 86 }
 }
 OTT = {
-	color = rgb { 169 183 154 }
-	color_ui = rgb { 145 160 128 }
+	color = rgb { 131 148 113 }
+	color_ui = rgb { 113 127 98 }
 }
 UCA = {
 	color = rgb { 141 202 214 }
@@ -166,8 +166,8 @@ TRK = {
 	color_ui = rgb { 156 175 140 }
 }
 PER = {
-	color = rgb { 60 102 80 }
-	color_ui = rgb { 39 68 53 }
+	color = rgb { 67 114 96 }
+	color_ui = rgb { 57 96 81 }
 }
 AFG = {
 	color = rgb { 64 160 167 }
@@ -260,4 +260,56 @@ KUB = {
 UKR = {
 	color = rgb { 142 0 28 }
 	color_ui = rgb { 91 0 18 }
+}
+NEJ = {
+	color = rgb { 170 190 153 }
+	color_ui = rgb { 123 137 111 }
+}
+OMA = {
+	color = rgb { 153 136 110 }
+	color_ui = rgb { 119 106 86 }
+}
+YEM = {
+	color = rgb { 203 185 157 }
+	color_ui = rgb { 165 151 129 }
+}
+GRE = {
+	color = rgb { 122 184 210 }
+	color_ui = rgb { 97 146 165 }
+}
+ALB = {
+	color = rgb { 122 42 73 }
+	color_ui = rgb { 61 23 40 }
+}
+LAT = {
+	color = rgb { 136 159 138 }
+	color_ui = rgb { 125 14 42 }
+}
+LIT = {
+	color = rgb { 219 219 119 }
+	color_ui = rgb { 168 168 92 }
+}
+POL = {
+	color = rgb { 208 89 105 }
+	color_ui = rgb { 160 69 85 }
+}
+GAL = {
+	color = rgb { 121 196 113 }
+	color_ui = rgb { 95 153 88 }
+}
+SLO = {
+	color = rgb { 198 185 169 }
+	color_ui = rgb { 165 155 142 }
+}
+TRA = {
+	color = rgb { 193 119 34 }
+	color_ui = rgb { 135 83 24 }
+}
+ROM = {
+	color = rgb { 220 204 97 }
+	color_ui = rgb { 175 163 79 }
+}
+BUL = {
+	color = rgb { 0 159 60 }
+	color_ui = rgb { 0 119 43 }
 }

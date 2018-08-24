@@ -1,12 +1,15 @@
 state={
 	id=793
 	name="STATE_793"
+	state_category = rural
 	history={
 		owner = FRA
+		add_core_of = EGY
+		add_core_of = OTT
 	}
 	provinces={
 		1155 4073 9947 12049 
 	}
-	manpower=0
+	manpower=384728
 	buildings_max_level_factor=1.000
 }

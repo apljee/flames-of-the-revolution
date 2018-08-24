@@ -1,14 +1,15 @@
 state={
 	id=796
 	name="STATE_796"
-	
+	state_category = town
 	history={
 		owner = IND
+		add_core_of = IND
 		}
 		
 	provinces={
 		1359 5019 5063 10311 10324 10511 11950 12226 
 	}
-	manpower=0
+	manpower=9106700
 	buildings_max_level_factor=1.000
 }

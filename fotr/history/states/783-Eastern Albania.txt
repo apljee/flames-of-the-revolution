@@ -1,13 +1,15 @@
 state={
 	id=783
 	name="STATE_783"
-	
+	state_category = rural
 	history={
 		owner = OTT
+		add_core_of = ALB
+		add_core_of = OTT
 	}
 	provinces={
 		833 867 6913 9849 
 	}
-	manpower=0
+	manpower=153482
 	buildings_max_level_factor=1.000
 }

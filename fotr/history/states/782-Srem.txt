@@ -1,7 +1,7 @@
 state={
 	id=782
 	name="STATE_782"
-	
+	state_category = town
 	history={
 		owner = SER
 	}	
@@ -9,6 +9,6 @@ state={
 	provinces={
 		614 3614 11580 
 	}
-	manpower=0
+	manpower=273482
 	buildings_max_level_factor=1.000
 }

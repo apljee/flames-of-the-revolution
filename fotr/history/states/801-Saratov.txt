@@ -1,13 +1,14 @@
 state={
 	id=801
 	name="STATE_801"
-	
+	state_category = rural
 	history={
 		owner = MOS
+		add_core_of = MOS
 	}
 	provinces={
 		618 3435 6486 6516 6620 9455 9592 11429 11736 
 	}
-	manpower=0
+	manpower=98456
 	buildings_max_level_factor=1.000
 }
