@@ -38,16 +38,16 @@ IRE = {
 	color_ui = rgb { 42 102 42 }
 }
 POR = {
-	color = rgb { 121 206 174 }
-	color_ui = rgb { 91 175 144 }
+	color = rgb { 13 141 152 }
+	color_ui = rgb { 4 98 107 }
 }
 SPA = {
 	color = rgb { 239 223 103 }
 	color_ui = rgb { 191 177 76 }
 }
 ARA = {
-	color = rgb { 239 102 102 }
-	color_ui = rgb { 201 66 66 }
+	color = rgb { 229 98 119 }
+	color_ui = rgb { 178 60 79 }
 }
 FRA = {
 	color = rgb { 13 46 146 }
@@ -58,12 +58,12 @@ RUS = {
 	color_ui = rgb { 0 102 11 }
 }
 ITA = {
-	color = rgb { 132 204 108 }
-	color_ui = rgb { 113 183 89 }
+	color = rgb { 36 158 79 }
+	color_ui = rgb { 21 117 55 }
 }
 PAP = { 
-	color = rgb { 244 244 200 }
-	color_ui = rgb { 216 216 160 }
+	color = rgb { 225 222 109 }
+	color_ui = rgb { 168 165 67 }
 }
 SIC = {
 	color = rgb { 124 14 14 }
@@ -277,11 +277,7 @@ GRE = {
 	color = rgb { 122 184 210 }
 	color_ui = rgb { 97 146 165 }
 }
-ALB = {
-	color = rgb { 122 42 73 }
-	color_ui = rgb { 61 23 40 }
-}
-LAT = {
+COR = {
 	color = rgb { 136 159 138 }
 	color_ui = rgb { 125 14 42 }
 }

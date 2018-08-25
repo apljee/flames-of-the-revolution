@@ -20,43 +20,43 @@ set_politics = {
 		}
 		
 		revrep = {
-			popularity = 0
+			popularity = 10
 		}
 		
 		demrep = { 
-			popularity = 0
+			popularity = 30
 		}
 		
 		liberal = { 
-			popularity = 0
+			popularity = 18
 		}
 		
 		syncretic = {
-			popularity = 5
-		}
-		
-		conservative = {
-			popularity = 10
-		}
-		
-		autdem = { 
-			popularity = 10
-		}
-		
-		absolute = {
 			popularity = 15
 		}
 		
+		conservative = {
+			popularity = 15
+		}
+		
+		autdem = { 
+			popularity = 0
+		}
+		
+		absolute = {
+			popularity = 0
+		}
+		
 		totalitarianism = { 
-			popularity = 20
+			popularity = 12
 		}
 		
 		agrarianism = { 
-			popularity = 40
+			popularity = 0
 		}
 	}
 	
-	ruling_party = absolute
+	ruling_party = demrep
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no

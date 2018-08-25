@@ -12,15 +12,15 @@ set_politics = {
 
 	parties = {
 		natpop = { 
-			popularity = 6
+			popularity = 0
 		}
 		
 		jacobin = {
-			popularity = 14
+			popularity = 0
 		}
 		
 		revrep = {
-			popularity = 10
+			popularity = 0
 		}
 		
 		demrep = { 
@@ -32,19 +32,19 @@ set_politics = {
 		}
 		
 		syncretic = {
-			popularity = 0
+			popularity = 26
 		}
 		
 		conservative = {
-			popularity = 30
+			popularity = 40
 		}
 		
 		autdem = { 
-			popularity = 20
+			popularity = 24
 		}
 		
 		absolute = {
-			popularity = 10
+			popularity = 0
 		}
 		
 		totalitarianism = { 

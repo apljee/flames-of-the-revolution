@@ -16,23 +16,23 @@ set_politics = {
 		}
 
 		jacobin = {
-			popularity = 13
+			popularity = 0
 		}
 		
 		revrep = {
-			popularity = 5
+			popularity = 15
 		}
 		
 		demrep = { 
-			popularity = 21
+			popularity = 13
 		}
 		
 		liberal = { 
-			popularity = 31
+			popularity = 0
 		}
 
 		syncretic = {
-			popularity = 15
+			popularity = 0
 		}
 		
 		conservative = {
@@ -40,15 +40,15 @@ set_politics = {
 		}
 		
 		autdem = { 
-			popularity = 0
+			popularity = 33
 		}
 		
 		absolute = {
-			popularity = 0
+			popularity = 10
 		}
 		
 		totalitarianism = { 
-			popularity = 0
+			popularity = 14
 		}
 		
 		agrarianism = { 
@@ -56,7 +56,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = liberal
+	ruling_party = autdem
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no

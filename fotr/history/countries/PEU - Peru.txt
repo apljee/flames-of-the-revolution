@@ -12,15 +12,15 @@ set_politics = {
 
 	parties = {
 		natpop = { 
-			popularity = 20
+			popularity = 0
 		}
 		
 		jacobin = {
-			popularity = 8
+			popularity = 0
 		}
 		
 		revrep = {
-			popularity = 4
+			popularity = 0
 		}
 		
 		demrep = { 
@@ -32,11 +32,11 @@ set_politics = {
 		}
 		
 		syncretic = {
-			popularity = 25
+			popularity = 10
 		}
 		
 		conservative = {
-			popularity = 0
+			popularity = 23
 		}
 		
 		autdem = { 
@@ -44,19 +44,19 @@ set_politics = {
 		}
 		
 		absolute = {
-			popularity = 33
+			popularity = 0
 		}
 		
 		totalitarianism = { 
-			popularity = 10
+			popularity = 57
 		}
 		
 		agrarianism = { 
-			popularity = 0
+			popularity = 10
 		}
 	}
 	
-	ruling_party = absolute
+	ruling_party = totalitarianism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no

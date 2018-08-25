@@ -1,4 +1,4 @@
-capital = 271
+capital = LAT
 
 #OOB = "ALB_1936"
 
@@ -16,47 +16,47 @@ set_politics = {
 		}
 		
 		jacobin = {
-			popularity = 0
+			popularity = 7
 		}
 		
 		revrep = {
-			popularity = 0
+			popularity = 20
 		}
 		
 		demrep = { 
-			popularity = 0
+			popularity = 5
 		}
 		
 		liberal = { 
-			popularity = 10
+			popularity = 5
 		}
 		
 		syncretic = {
-			popularity = 12
-		}
-		
-		conservative = {
 			popularity = 13
 		}
 		
+		conservative = {
+			popularity = 10
+		}
+		
 		autdem = { 
-			popularity = 32
+			popularity = 11
 		}
 		
 		absolute = {
-			popularity = 24
+			popularity = 0
 		}
 		
 		totalitarianism = { 
-			popularity = 9
+			popularity = 24
 		}
 		
 		agrarianism = { 
-			popularity = 0
+			popularity = 5
 		}
 	}
 	
-	ruling_party = autdem
+	ruling_party = totalitarianism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no

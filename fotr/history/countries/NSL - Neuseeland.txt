@@ -24,27 +24,27 @@ set_politics = {
 		}
 		
 		demrep = { 
-			popularity = 11
+			popularity = 0
 		}
 		
 		liberal = { 
-			popularity = 21
+			popularity = 0
 		}
 		
 		syncretic = {
-			popularity = 13
+			popularity = 10
 		}
 		
 		conservative = {
-			popularity = 20
+			popularity = 30
 		}
 		
 		autdem = { 
-			popularity = 24
+			popularity = 60
 		}
 		
 		absolute = {
-			popularity = 11
+			popularity = 0
 		}
 		
 		totalitarianism = { 

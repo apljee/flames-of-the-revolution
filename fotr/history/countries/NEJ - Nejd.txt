@@ -16,7 +16,7 @@ set_politics = {
 		}
 
 		jacobin = {
-			popularity = 15
+			popularity = 0
 		}
 		
 		revrep = {
@@ -24,31 +24,31 @@ set_politics = {
 		}
 		
 		demrep = { 
-			popularity = 0
+			popularity = 4
 		}
 		
 		liberal = { 
-			popularity = 10
+			popularity = 16
 		}
 
 		syncretic = {
-			popularity = 0
+			popularity = 8
 		}
 		
 		conservative = {
-			popularity = 0
+			popularity = 8
 		}
 		
 		autdem = { 
-			popularity = 20
+			popularity = 8
 		}
 		
 		absolute = {
-			popularity = 35
+			popularity = 31
 		}
 		
 		totalitarianism = { 
-			popularity = 20
+			popularity = 25
 		}
 		
 		agrarianism = { 

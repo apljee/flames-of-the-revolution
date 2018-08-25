@@ -12,11 +12,11 @@ set_politics = {
 
 	parties = {
 		natpop = { 
-			popularity = 41
+			popularity = 25
 		}
 		
 		jacobin = {
-			popularity = 26
+			popularity = 42
 		}
 		
 		revrep = {
@@ -56,7 +56,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = natpop
+	ruling_party = jacobin
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no

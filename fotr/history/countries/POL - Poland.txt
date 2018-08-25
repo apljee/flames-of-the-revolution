@@ -16,47 +16,47 @@ set_politics = {
 		}
 		
 		jacobin = {
-			popularity = 5
-		}
-		
-		revrep = {
-			popularity = 5
-		}
-		
-		demrep = { 
-			popularity = 10
-		}
-		
-		liberal = { 
-			popularity = 10
-		}
-		
-		syncretic = {
 			popularity = 8
 		}
 		
+		revrep = {
+			popularity = 4
+		}
+		
+		demrep = { 
+			popularity = 4
+		}
+		
+		liberal = { 
+			popularity = 23
+		}
+		
+		syncretic = {
+			popularity = 11
+		}
+		
 		conservative = {
-			popularity = 12
+			popularity = 26
 		}
 		
 		autdem = { 
-			popularity = 30
+			popularity = 16
 		}
 		
 		absolute = {
-			popularity = 0
+			popularity = 8
 		}
 		
 		totalitarianism = { 
-			popularity = 13
+			popularity = 0
 		}
 		
 		agrarianism = { 
-			popularity = 7
+			popularity = 0
 		}
 	}
 	
-	ruling_party = autdem
+	ruling_party = conservative
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no

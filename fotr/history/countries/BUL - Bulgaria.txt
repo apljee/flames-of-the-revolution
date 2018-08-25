@@ -16,43 +16,43 @@ set_politics = {
 		}
 		
 		jacobin = {
-			popularity = 5
-		}
-		
-		revrep = {
-			popularity = 5
-		}
-		
-		demrep = { 
-			popularity = 10
-		}
-		
-		liberal = { 
-			popularity = 10
-		}
-		
-		syncretic = {
-			popularity = 8
-		}
-		
-		conservative = {
-			popularity = 12
-		}
-		
-		autdem = { 
-			popularity = 30
-		}
-		
-		absolute = {
 			popularity = 0
 		}
 		
+		revrep = {
+			popularity = 0
+		}
+		
+		demrep = { 
+			popularity = 19
+		}
+		
+		liberal = { 
+			popularity = 0
+		}
+		
+		syncretic = {
+			popularity = 10
+		}
+		
+		conservative = {
+			popularity = 21
+		}
+		
+		autdem = { 
+			popularity = 45
+		}
+		
+		absolute = {
+			popularity = 5
+		}
+		
 		totalitarianism = { 
-			popularity = 13
+			popularity = 0
 		}
 		
 		agrarianism = { 
-			popularity = 7
+			popularity = 0
 		}
 	}
 	
