@@ -1,0 +1,46 @@
+ideologies = {
+
+	reformationism = {
+
+		types = {
+			reformationism = {
+			}
+		}
+
+	dynamic_faction_names = {
+		"FACTION_NAME_NATIONALIST_1"
+	}
+
+	color = { 22 22 22 }
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		war_impact_on_world_tension = 0.15
+		faction_impact_on_world_tension = 0.15
+
+		modifiers = {
+			generate_wargoal_tension = 0.15
+			join_faction_tension = 0.1
+			lend_lease_tension = 0.1
+			send_volunteers_tension = 0
+			guarantee_tension = 0
+			take_states_cost_factor = 0
+			annex_cost_factor = 0
+			justify_war_goal_when_in_major_war_time = 0
+			drift_defence_factor = 0
+			puppet_cost_factor = -0.05
+		}
+	
+		can_be_boosted = yes
+		can_collaborate = yes
+	
+		faction_modifiers = {
+			faction_trade_opinion_factor = -0.1
+		}
+		ai_fascism = yes
+	}
+}

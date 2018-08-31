@@ -51,7 +51,7 @@ set_politics = {
 			popularity = 15
 		}
 		
-		agrarianism = { 
+		reformationism = { 
 			popularity = 4
 		}
 	}
