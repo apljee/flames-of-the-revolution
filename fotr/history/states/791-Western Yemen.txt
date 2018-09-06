@@ -1,13 +1,13 @@
 state={
 	id=791
 	name="STATE_791"
-	
+	state_category = rural
 	history={
 		owner = OTT
 	}
 	provinces={
 		1920 10752 10840 
 	}
-	manpower=0
+	manpower=22481
 	buildings_max_level_factor=1.000
 }
