@@ -2,7 +2,7 @@ state={
 	id=762
 	name="STATE_762"
 	provinces={
-		506 6464
+		6464 13724
 	}
 	manpower=1000000
 	resources={
@@ -11,11 +11,11 @@ state={
 	}
 	state_category = city
 	history={
-		owner = GER
+		owner = GAL
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
 		}
-		add_core_of = GER
+		add_core_of = GAL
 	}
 }
